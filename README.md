@@ -1,0 +1,1 @@
+# nitrosend-map-artifacts
